@@ -195,7 +195,7 @@ class Circle {
 
   // Initialize rays
   initRays() {
-    let numRays = 80;
+    let numRays = 180;
     let rayLength = this.radius;
     for (let i = 0; i < numRays; i++) {
       let angle = (TWO_PI / numRays) * i;

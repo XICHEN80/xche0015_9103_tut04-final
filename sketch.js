@@ -36,7 +36,7 @@ function draw() {
 
 // Animation function 
 function animateCircles() {
-  rotationAngle += PI / 180 * 10; // 10 degrees each time to speed up rotation
+  rotationAngle += PI / 180 * 12; // 12 degrees each time to speed up rotation
   scaleFactor = 1 + 0.05 * sin(millis() / 1); // create periodic scaling effect
 }
 

@@ -3,7 +3,7 @@ let circles = [];
 let circleCount = 40; 
 let layersPerCircle = 8; 
 let particlesPerLayer = 40; 
-let circleRadius = 100; 
+let circleRadius = 130; 
 let circleSpacing = 400; 
 let layoutAngle = 7; 
 
